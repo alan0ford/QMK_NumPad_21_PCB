@@ -1,0 +1,9 @@
+{
+    "keyboard_name": "case404",
+    "manufacturer": "alan0ford",
+    "usb": {
+        "vid": "0x4130",
+        "pid": "0x0058",
+        "device_version": "0.0.1"
+    }
+}
